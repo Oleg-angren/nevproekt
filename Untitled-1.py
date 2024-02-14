@@ -1,2 +1,2 @@
-print("олег")
-print('dfghjkk')
+
+print("сегодня  14 февраля")
